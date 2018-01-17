@@ -4,3 +4,12 @@ img {
   padding: 5px;
   width: 400px;
 }
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  border: 6px solid coral;
+}
